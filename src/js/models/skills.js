@@ -40,5 +40,12 @@ export default [
     title: "MySQL",
     imgSrc: "assets/img/tech/mysql.webp",
     imgAlt: "mysql"
+  },
+  {
+    id: "sqlserver-tech",
+    category: "web-development",
+    title: "SQLServer",
+    imgSrc: "assets/img/tech/sql-server.svg",
+    imgAlt: "sql-server"
   }
 ]

@@ -298,6 +298,10 @@ button {
   background-image: radial-gradient(rgba(131, 208, 222, 0.8) 2%, rgba(131, 208, 222, 0.5) 90%);
 }
 
+#sqlserver-tech {
+  background-image: radial-gradient(rgba(222, 131, 131, 0.8) 2%, rgba(222, 131, 131, 0.5) 90%);
+}
+
 @media (prefers-reduced-motion:no-preference) {
   @keyframes scroll-velocity {
     from {
